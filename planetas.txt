@@ -1,3 +1,10 @@
 ﻿Alderaan
 Coruscant
+<<<<<<< HEAD
 Endor
+Tatooine
+Hoth
+Terra
+=======
+Endor
+>>>>>>> parent of 6396f80... Adicionado o planetas.
